@@ -1,5 +1,11 @@
-# Book-PDF-PHEI
+# 电子工业出版社书籍PDF合集
 电子工业出版社的一些计算机相关的书籍，PDF版本。
+
+较大的PDF处理成了压缩文件，请到[Book-RAR](/Book-RAR/)文件夹查看。
+
+其余的PDF请到[Book-PDF](/Book-PDF/)文件夹查看。
+
+# 书籍目录
 
 - C++与数据结构.pdf
 - Excel数据处理与分析.pdf
