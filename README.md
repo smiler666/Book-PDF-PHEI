@@ -5,6 +5,8 @@
 
 其余的PDF请到[Book-PDF](/Book-PDF/)文件夹查看。
 
+https://smiler666.github.io/post/share-3-book-1/
+
 # 书籍目录
 
 - C++与数据结构.pdf
