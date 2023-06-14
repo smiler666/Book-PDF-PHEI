@@ -40,7 +40,7 @@ https://smiler666.github.io/post/share-3-book-1/
 - [《PADS电路板设计超级手册》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/《PADS电路板设计超级手册》.pdf)
 - [《Python 3 面向对象编程（第2版）》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/%E3%80%8APython%203%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%E3%80%8B.pdf)
 - [《Python 3学习笔记（上卷）》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/%E3%80%8APython%203%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%8A%E5%8D%B7%EF%BC%89%E3%80%8B.pdf)
-- [《Python 3爬虫、数据清洗与可视化实战》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/《Python 3爬虫、数据清洗与可视化实战》.pdf)
+- [《Python 3爬虫、数据清洗与可视化实战》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/%E3%80%8APython%203%E7%88%AC%E8%99%AB%E3%80%81%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%AE%9E%E6%88%98%E3%80%8B.pdf)
 - [《Python3从入门到实战》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/%E3%80%8APython%203%E7%88%AC%E8%99%AB%E3%80%81%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%AE%9E%E6%88%98%E3%80%8B.pdf)
 - [《Python安全编程项目实训教程》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/《Python安全编程项目实训教程》.pdf)
 - [《Python宝典》.pdf](https://github.com/smiler666/Book-PDF-PHEI/blob/main/Book-PDF/《Python宝典》.pdf)
